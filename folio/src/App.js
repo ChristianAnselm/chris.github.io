@@ -10,10 +10,6 @@ class App extends Component {
 
         <Switch>
           <Route exact path="/" component={LandingPage} />
-          {/* <Route path="/users/logout" component={this.logoutUser} />
-          <Route path="/users/login" component={LoginUser} />
-          <Route path="/users/new" component={NewUser} />
-          <Route path='/dashboard' component={Feed} /> */}
         </Switch>
 
       </div >
